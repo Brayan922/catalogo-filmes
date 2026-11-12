@@ -1,3 +1,14 @@
 body{
-    background-color:rgb(245, 247, 245);
+    background-color: white;
+}
+
+.cabeçalho {
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid white;
+    background-image: (wp9212011);
+    background-size: cover;
+    background-position: 50% 75%;
 }
