@@ -3,13 +3,13 @@ body{
 }
 
 .cabeçalho {
-    margin-bottom: 0px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: 2px solid white;
-    background-size: cover;
-    background-position: 50% 75%;
+     margin-bottom: 0px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     border: 2px solid white;
+     background-size: cover;
+     background-position: 50% 75%;
 }
 
 .cabeçalho-título {
@@ -22,4 +22,12 @@ body{
      padding-top: 10px;
      border-radius: 5px;
 
+}
+
+.imagen-logo { 
+     height: 48px;
+     width: auto;
+     max-width: 100%;
+     display: block;
+     object-fit: contain;
 }
